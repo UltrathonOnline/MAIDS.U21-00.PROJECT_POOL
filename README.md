@@ -3,6 +3,8 @@
 
 A manifest and description of all projects entering the 2021 Copenhagen Ultrathon on Precision Medicine. Links to Medical AI Datasheets (MAIDS) are included.
 
+![](project_pool.jpg?raw=true)
+
 ## Manifest
 1. Prediction of bloodstream infections: Blood culturing data associated to clinical metadata [details](#-u21-01)
 2. Fluorescence angiography [details](#-u21-02)
