@@ -1,17 +1,17 @@
 # PROJECT POOL
 ## 2021 Copenhagen Ultrathon in Precision Medicine
 
-A manifest of all projects entering the 2021 Copenhagen Ultrathon on Precision Medicine. Links to Medical AI Datasheets (MAIDS) are included.
+A manifest and description of all projects entering the 2021 Copenhagen Ultrathon on Precision Medicine. Links to Medical AI Datasheets (MAIDS) are included.
 
 ## Manifest
-1. Prediction of bloodstream infections: Blood culturing data associated to clinical metadata [details](#u2101)
-2. Fluorescence angiography [details](#u2102)
-3. Consciousness in neurocritical care cohort study [details](#u2103)
-4. Predicting the immune response to SARS-CoV-2 in the COVIMUN cohort, a study of host genetics and cytokine response profiles in the context of known immunological pathways [details](#u2104)
-5. Thiopurine/methotrexate maintenance therapy of acute lymphoblastic leukemia [details](#u2105)
-6. Predict risk of infection (blood culture drawn) and chance of treatment free survival 4 years from start of first CLL treatment [details](#u2106)
-7. Microbiome, medication and clinical outcomes [details](#u2107)
-8. Prediction of peptide-epitope binding – the keyto immune response, vaccine design and drug design [details](#u2108)
+1. Prediction of bloodstream infections: Blood culturing data associated to clinical metadata [details](#-u21-01)
+2. Fluorescence angiography [details](#-u21-02)
+3. Consciousness in neurocritical care cohort study [details](#-u21-03)
+4. Predicting the immune response to SARS-CoV-2 in the COVIMUN cohort, a study of host genetics and cytokine response profiles in the context of known immunological pathways [details](#-u21-04)
+5. Thiopurine/methotrexate maintenance therapy of acute lymphoblastic leukemia [details](#-u21-05)
+6. Predict risk of infection (blood culture drawn) and chance of treatment free survival 4 years from start of first CLL treatment [details](#-u21-06)
+7. Microbiome, medication and clinical outcomes [details](#-u21-07)
+8. Prediction of peptide-epitope binding – the keyto immune response, vaccine design and drug design [details](#-u21-08)
   
 ## Details
 
