@@ -5,7 +5,7 @@
 
 A manifest and description of all projects entering the 2021 Copenhagen Ultrathon. If you have project-specific questions, please make use of the discussion forums available on the repositories of each project. Links to the websites and repositories for each of the Medical AI Datasheets (MAIDS) are included in the details section for each dataset.
 
-> Visit the manifest's [website](https://ultrathononline.github.io/U21-PROJECT-POOL/) or [repository]().
+> Visit the manifest's [website](https://ultrathononline.github.io/U21-PROJECT-POOL/) or [repository](https://github.com/UltrathonOnline/U21-PROJECT-POOL).
 
 If you have general questions on the _2021 Ultrathon_ then please use the [discussion forum](https://github.com/UltrathonOnline/U21-PROJECT-POOL/discussions) in the repository.
 
