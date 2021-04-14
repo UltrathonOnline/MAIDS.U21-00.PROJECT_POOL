@@ -1,9 +1,8 @@
-# PROJECT POOL
-## 2021 Copenhagen Ultrathon in Precision Medicine
+<p align="center"><img width="100%" src="./images/project_pool.png" /></p>
+
+# Project pool for the 2021 Copenhagen Ultrathon in Precision Medicine
 
 A manifest and description of all projects entering the 2021 Copenhagen Ultrathon on Precision Medicine. Links to Medical AI Datasheets (MAIDS) are included.
-
-<p align="center"><img hight="100" src="project_pool.jpg" /></p>
 
 ## Manifest
 1. Prediction of bloodstream infections: Blood culturing data associated to clinical metadata [details](#-u21-01)
@@ -19,6 +18,8 @@ A manifest and description of all projects entering the 2021 Copenhagen Ultratho
 
 ### **&#10149; U21-01**
 #### **Prediction of bloodstream infections: Blood culturing data associated to clinical metadata**
+<p align="center"><img width="100%" src="./images/u2101.jpg" /></p>
+
 >Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-01.Blood_Infection).
 ```
 Karen Leth Nielsen, Frederik Boëtius Hertz, Niels Frimodt-Møller, Steen Rasmussen, Ruth Frikke-Schmidt, Jesper Qvist Thomassen
@@ -32,6 +33,8 @@ resistance profile of the infecting pathogen over a period of more than 10 years
 
 ### **&#10149; U21-02**
 #### **Fluorescence angiography**
+<p align="center"><img width="100%" src="./images/u2102.png" /></p>
+
 >Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-02.Florescence_angiography).
 ```
 Michael Achiam, Morten Bo Svendsen, Lars Bo Svendsen, Nikolaj Nerup, Jens Osterkamp_
@@ -45,6 +48,8 @@ within the target area and, thus, produce a more sensitive and accurate quantifi
 
 ### **&#10149; U21-03**
 #### **Consciousness in neurocritical care cohort study**
+<p align="center"><img width="100%" src="./images/u2103.jpg" /></p>
+
 >Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-03.Consciousness).
 ```
 Daniel Kondziella, Moshgan Amiri_
@@ -66,6 +71,8 @@ decision-making.
 
 ### **&#10149; U21-04**
 #### **Predicting the immune response to SARS-CoV-2 in the COVIMUN cohort, a study of host genetics and cytokine response profiles in the context of known immunological pathways**
+<p align="center"><img width="100%" src="./images/u2104.png" /></p>
+
 >Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-04.COVIMUN).
 ```
 Rebecka Svanberg, Carsten Niemann, Sisse Ostrowski, Rasmus Lykke Marvig, Preston Yui Sum Leung
@@ -84,6 +91,8 @@ ultimately have significant clinical impact.
 
 ### **&#10149; U21-05**
 #### **Thiopurine/methotrexate maintenance therapy of acute lymphoblastic leukemia**
+<p align="center"><img width="100%" src="./images/u2101.jpg" /></p>
+
 >Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-05.ALL).
 ```
 Rikke Linnemann Nielsen, Kjeld Schmiegelow, Kathrine Grell
@@ -96,6 +105,8 @@ protocols (ALL92: 1992-2006) and ALL2008 (2008-2018).
 
 ### **&#10149; U21-06**
 #### **Predict risk of infection (blood culture drawn) and chance of treatment free survival 4 years from start of first CLL treatment**
+<p align="center"><img width="100%" src="./images/u2106.jpg" /></p>
+
 >Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-06.CLLTIM).
 ```
 Carsten U. Niemann, Rudi Agius
@@ -112,6 +123,8 @@ treatment regimens.
 
 ### **&#10149; U21-07**
 #### **Microbiome, medication and clinical outcomes**
+<p align="center"><img width="100%" src="./images/u2107.png" /></p>
+
 >Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-07.ARG).
 ```
 Henrik Sengeløv, Jens Christian Nørgaard
@@ -128,6 +141,8 @@ such as taxonomy.
 
 ### **&#10149; U21-08**
 #### **Prediction of peptide-epitope binding – the keyto immune response, vaccine design and drug design**
+<p align="center"><img width="100%" src="./images/u2108.jpg" /></p>
+
 >Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-08.MHC).
 ```
 Marek Prachar, Sune Justesen, Daniel B. Steen-Jensen, Frederik O. Bagger
