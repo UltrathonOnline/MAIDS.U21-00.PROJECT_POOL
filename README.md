@@ -5,9 +5,9 @@
 
 A manifest and description of all projects entering the 2021 Copenhagen Ultrathon. If you have project-specific questions, please make use of the discussion forums available on the repositories of each project. Links to the websites and repositories for each of the Medical AI Datasheets (MAIDS) are included in the details section for each dataset.
 
-* If you are in the repository then [click here](https://ultrathononline.github.io/U21-PROJECT-POOL/) to visit the website.
+> Visit the manifest's [website](https://ultrathononline.github.io/U21-PROJECT-POOL/) or [repository]().
 
-Please use the [discussion forum](https://github.com/UltrathonOnline/U21-PROJECT-POOL/discussions) in the [repository](https://github.com/UltrathonOnline/U21-PROJECT-POOL) to ask questions on the **2021 Ultrathon**.
+If you have general questions on the _2021 Ultrathon_ then please use the [discussion forum](https://github.com/UltrathonOnline/U21-PROJECT-POOL/discussions) in the repository.
 
 ## Project manifest
 1. Prediction of bloodstream infections: Blood culturing data associated to clinical metadata [details](#-u21-01)
