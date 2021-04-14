@@ -106,7 +106,7 @@ in response to COVID-19, which could ultimately have significant clinical impact
 
 ### **&#10149; U21-05**
 #### **Thiopurine/methotrexate maintenance therapy of acute lymphoblastic leukemia**
-<p align="center"><img width="100%" src="./images/u2101.jpg" /></p>
+<p align="center"><img width="100%" src="./images/u2105.png" /></p>
 
 >Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-05.ALL).
 ```
