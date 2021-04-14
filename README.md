@@ -9,7 +9,15 @@ A manifest and description of all projects entering the 2021 Copenhagen Ultratho
 
 If you have general questions on the _2021 Ultrathon_ then please use the [discussion forum](https://github.com/UltrathonOnline/U21-PROJECT-POOL/discussions) in the repository.
 
+> There are several ways to stay informed:
+> * Visit the Ultrathon's [landing page](https://ultrathon.online) and sign up to the mailing list.
+> * Follow us on [Twitter](https://twitter.com/UltrathonOnline).
+> * Watch the repository for changes.
+
 ## Project manifest
+
+The following projects are entered into the 2021 Ultrathon. Applicants will be asked to submit presolutions (small idealized solutions) when applying to attend the event. A committee will select attendees based on the scientific merit of presolutions. An exact rubric will be published later this year. Participants will have the opportunity to take their ideas through to publication during the six week event. 
+
 1. Prediction of bloodstream infections: Blood culturing data associated to clinical metadata [details](#-u21-01)
 2. Fluorescence angiography [details](#-u21-02)
 3. Consciousness in neurocritical care cohort study [details](#-u21-03)
