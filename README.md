@@ -1,7 +1,7 @@
+<a id="top"></a>
 <p align="center"><img width="100%" src="./images/project_pool.png" /></p>
 
-# Project pool
-## 2021 Copenhagen Ultrathon in Medical AI and Precision Medicine
+# Project pool for the 2021 Copenhagen Ultrathon in Medical AI and Precision Medicine
 
 A manifest and description of all projects entering the 2021 Copenhagen Ultrathon. If you have project-specific questions, please make use of the discussion forums available on the repositories of each project. Links to the websites and repositories for each of the Medical AI Datasheets (MAIDS) are included in the details section for each dataset.
 
@@ -35,7 +35,7 @@ of bloodstream infections. The dataset combines clinical blood parameters, age, 
 well as previous admissions to blood culturing results (negative and positive) and 
 resistance profile of the infecting pathogen over a period of more than 10 years.
 ```
-[top](#project-pool) | [next](#-u21-02)
+[top](#top) | [next](#-u21-02)
 
 ### **&#10149; U21-02**
 #### **Fluorescence angiography**
@@ -51,7 +51,7 @@ algorithms for subsequent data acquisition. The algorithm/program should be able
 accurately adjust which pixels are sampled within each frame to keep a Region-of-Interest
 within the target area and, thus, produce a more sensitive and accurate quantification.
 ```
-[prev](#-u21-01) | [top](#project-pool) | [next](#-u21-03)
+[prev](#-u21-01) | [top](#top) | [next](#-u21-03)
 
 ### **&#10149; U21-03**
 #### **Consciousness in neurocritical care cohort study**
@@ -75,7 +75,7 @@ of the database is to identify important information predicting level of conscio
 outcome (acute and long-term) in these patients, which will help to optimize clinical
 decision-making.
 ```
-[prev](#-u21-02) | [top](#project-pool) | [next](#-u21-04)
+[prev](#-u21-02) | [top](#top) | [next](#-u21-04)
 
 ### **&#10149; U21-04**
 #### **Predicting the immune response to SARS-CoV-2 in the COVIMUN cohort, a study of host genetics and cytokine response profiles in the context of known immunological pathways**
@@ -96,7 +96,7 @@ immune responses. The current dataset provides a unique opportunity to unravel c
 between genotype and immune phenotype- and function in response to COVID-19, which could
 ultimately have significant clinical impact.
 ```
-[prev](#-u21-03) | [top](#project-pool) | [next](#-u21-05)
+[prev](#-u21-03) | [top](#top) | [next](#-u21-05)
 
 ### **&#10149; U21-05**
 #### **Thiopurine/methotrexate maintenance therapy of acute lymphoblastic leukemia**
@@ -111,7 +111,7 @@ To provide a deeper understanding of pharmacogenetics/-kinetics/-dynamics of MT 
 cure rates for childhood leukemia. The datasets emerge from two Nordic childhood leukemia
 protocols (ALL92: 1992-2006) and ALL2008 (2008-2018).
 ```
-[prev](#-u21-04) | [top](#project-pool) | [next](#-u21-06)
+[prev](#-u21-04) | [top](#top) | [next](#-u21-06)
 
 ### **&#10149; U21-06**
 #### **Predict risk of infection (blood culture drawn) and chance of treatment free survival 4 years from start of first CLL treatment**
@@ -130,7 +130,7 @@ Using this data set we aim to both model risk of infection upon CLL treatment an
 factors responsible for low immune function and duration of treatment response upon different
 treatment regimens.
 ```
-[prev](#-u21-05) | [top](#project-pool) | [next](#-u21-07)
+[prev](#-u21-05) | [top](#top) | [next](#-u21-07)
 
 ### **&#10149; U21-07**
 #### **Microbiome, medication and clinical outcomes**
@@ -149,7 +149,7 @@ data on use of antibiotics (anti-bacteria, -virus, -fungi), immunosuppressants a
 Moreover, we have detailed data on demographics, clinical outcomes and other microbiome features
 such as taxonomy.
 ```
-[prev](#-u21-06) | [top](#project-pool) | [next](#-u21-08)
+[prev](#-u21-06) | [top](#top) | [next](#-u21-08)
 
 ### **&#10149; U21-08**
 #### **Prediction of peptide-epitope binding – the keyto immune response, vaccine design and drug design**
@@ -165,4 +165,4 @@ bloodstream infections. The dataset combines clinical blood parameters, age, sex
 previous admissions to blood culturing results (negative and positive) and resistance profile of
 the infecting pathogen over a period of more than 10 years.
 ```
-[prev](#-u21-07) | [top](#project-pool)
+[prev](#-u21-07) | [top](#top)
