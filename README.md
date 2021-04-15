@@ -53,7 +53,7 @@ infections. The dataset combines clinical blood parameters, age, sex as well as 
 blood culturing results (negative and positive) and resistance profile of the infecting pathogen over
 a period of more than 10 years.
 ```
-[top](#top) | [next](#-u21-02)
+[top](#manifest) | [next](#-u21-02)
 
 ### **&#10149; U21-02**
 
@@ -72,7 +72,7 @@ for subsequent data acquisition. The algorithm/program should be able to accurat
 are sampled within each frame to keep a Region-of-Interest within the target area and, thus, produce a
 more sensitive and accurate quantification.
 ```
-[prev](#-u21-01) | [top](#top) | [next](#-u21-03)
+[prev](#-u21-01) | [top](#manifest) | [next](#-u21-03)
 
 ### **&#10149; U21-03**
 
@@ -98,7 +98,7 @@ identify important information predicting level of consciousness and outcome (ac
 these patients, which will help to optimize clinical decision-making.
 ```
 
-[prev](#-u21-02) | [top](#top) | [next](#-u21-04)
+[prev](#-u21-02) | [top](#manifest) | [next](#-u21-04)
 
 ### **&#10149; U21-04**
 
@@ -122,7 +122,7 @@ provides a unique opportunity to unravel correlations between genotype and immun
 in response to COVID-19, which could ultimately have significant clinical impact.
 ```
 
-[prev](#-u21-03) | [top](#top) | [next](#-u21-05)
+[prev](#-u21-03) | [top](#manifest) | [next](#-u21-05)
 
 ### **&#10149; U21-05**
 
@@ -141,7 +141,7 @@ childhood leukemia. The datasets emerge from two Nordic childhood leukemia proto
 ALL2008 (2008-2018).
 ```
 
-[prev](#-u21-04) | [top](#top) | [next](#-u21-06)
+[prev](#-u21-04) | [top](#manifest) | [next](#-u21-06)
 
 ### **&#10149; U21-06**
 
@@ -163,7 +163,7 @@ upon CLL treatment and uncover risk factors responsible for low immune function 
 response upon different treatment regimens.
 ```
 
-[prev](#-u21-05) | [top](#top) | [next](#-u21-07)
+[prev](#-u21-05) | [top](#manifest) | [next](#-u21-07)
 
 ### **&#10149; U21-07**
 
@@ -185,7 +185,7 @@ and we have established an automatic way of extracting data on use of antibiotic
 outcomes and other microbiome features such as taxonomy.
 ```
 
-[prev](#-u21-06) | [top](#top) | [next](#-u21-08)
+[prev](#-u21-06) | [top](#manifest) | [next](#-u21-08)
 
 ### **&#10149; U21-08**
 
@@ -208,4 +208,4 @@ The dataset consists of two types of data one is precise and expensive, the othe
 would mean an explosion of available data for this type of problems.
 ```
 
-[prev](#-u21-07) | [top](#top)
+[prev](#-u21-07) | [top](#manifest)
