@@ -4,9 +4,7 @@
 
 # Project pool for the 2021 Copenhagen Ultrathon in Medical AI and Precision Medicine
 
-This page contains the manifest of all projects entering the 2021 Copenhagen Ultrathon. If you have project-specific questions, please make use of the discussion forums available on the repositories of each project. Links to the websites and repositories for each of the Medical AI Datasheets (MAIDS) are included in the details section for each dataset.
-
-> Visit the manifest's [website](https://ultrathononline.github.io/U21-PROJECT-POOL/) or [repository](https://github.com/UltrathonOnline/U21-PROJECT-POOL).
+This page contains the manifest of all projects entering the 2021 Copenhagen Ultrathon. If you have project-specific questions, please make use of the discussion forums available on the repositories of each project. Links to the websites and repositories for each of the Medical AI Datasheets (MAIDS) are included in the details section. MAIDS descriptions are currently in development and being prototyped for this event. They are meant to increase communication around medical datasets intended and to promote machine learning and discussion in the field. As such, they are highly portable (easily shared), do not disclose sensitive data, highlight ethical concerns and possible bias, and provide standard methods to communicate on datasets between data owners and data consumers. To find out more about MAIDS, please visit the MAIDS [specification](https://github.com/PERSIMUNE/MAIDS-Specification) hosted on Github.
 
 If you have general questions on the _2021 Ultrathon_ then please use the [discussion forum](https://github.com/UltrathonOnline/U21-PROJECT-POOL/discussions) in the repository.
 
@@ -15,11 +13,15 @@ If you have general questions on the _2021 Ultrathon_ then please use the [discu
 > * Follow us on [Twitter](https://twitter.com/UltrathonOnline).
 > * Watch the repository for changes.
 
+## Applicant instructions
+
+To apply to the 2021 Ultrathon applicants will need to submit a presolution to two projects of their choice. Presolutions are brief (max. 300 words) idealized solutions to the questions asked in each project. They are meant to demonstrate an ability to understand the information presented and how one might contribute to solving the problem in a team. A committee will select attendees based on the scientific merits of the presolution. An exact rubric will be published later this year, but a core principle is that presolutions must be grounded and realistic with respect to the underlying data.
+
+Selected participants will have the opportunity to take their ideas through to publication during the six week event. Use this `project pool` to navigate the available datasets for the this year's Ultrathon on Github. The submission form will be available through the event website when the call opens: https://ultrathon.online. Until then, a mailing list is available on the same site.
+
 ## Manifest
 
 The following table lists projects entered into the 2021 Ultrathon. Click on the links in the ID column to scroll down to the details section for the project's dataset. The MAIDS descriptions are available in PDF, Website, or Git repositories from the MAIDS column.
-
-Applicants will be asked to submit presolutions (small idealized solutions) when applying to attend the event. A committee will select attendees based on the scientific merit of presolutions. An exact rubric will be published later this year. Participants will have the opportunity to take their ideas through to publication during the six week event.
 
 <table width="95%">
     <tr><th width="12%">ID</th><th width="70%">Title</th><th width="18%">MAIDS</th></tr>
@@ -209,3 +211,9 @@ would mean an explosion of available data for this type of problems.
 ```
 
 [prev](#-u21-07) | [top](#manifest)
+
+<hr />
+
+> You are either viewing the repository directly or the website:
+> * Switch to the manifest's [website](https://ultrathononline.github.io/U21-PROJECT-POOL/), or
+> * Switch to the manifest's [repository](https://github.com/UltrathonOnline/U21-PROJECT-POOL).
