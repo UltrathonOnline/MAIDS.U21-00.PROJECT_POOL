@@ -15,18 +15,23 @@ If you have general questions on the _2021 Ultrathon_ then please use the [discu
 > * Follow us on [Twitter](https://twitter.com/UltrathonOnline).
 > * Watch the repository for changes.
 
-## Project manifest
+## Manifest
 
-The following projects are entered into the 2021 Ultrathon. Applicants will be asked to submit presolutions (small idealized solutions) when applying to attend the event. A committee will select attendees based on the scientific merit of presolutions. An exact rubric will be published later this year. Participants will have the opportunity to take their ideas through to publication during the six week event. 
+The following table lists projects entered into the 2021 Ultrathon. Click on the links in the ID column to scroll down to the details section for the project's dataset. The MAIDS descriptions are available in PDF, Website, or Git repositories from the MAIDS column.
 
-1. Prediction of bloodstream infections: Blood culturing data associated to clinical metadata [details](#-u21-01)
-2. Fluorescence angiography [details](#-u21-02)
-3. Consciousness in neurocritical care cohort study [details](#-u21-03)
-4. Predicting the immune response to SARS-CoV-2 in the COVIMUN cohort, a study of host genetics and cytokine response profiles in the context of known immunological pathways [details](#-u21-04)
-5. Thiopurine/methotrexate maintenance therapy of acute lymphoblastic leukemia [details](#-u21-05)
-6. Predict risk of infection (blood culture drawn) and chance of treatment free survival 4 years from start of first CLL treatment [details](#-u21-06)
-7. Microbiome, medication and clinical outcomes [details](#-u21-07)
-8. Prediction of peptide-epitope binding – the keyto immune response, vaccine design and drug design [details](#-u21-08)
+Applicants will be asked to submit presolutions (small idealized solutions) when applying to attend the event. A committee will select attendees based on the scientific merit of presolutions. An exact rubric will be published later this year. Participants will have the opportunity to take their ideas through to publication during the six week event.
+
+<table width="95%">
+    <tr><th width="8%">ID</th><th width="72%">Title</th><th width="20%">MAIDS</th></tr>
+    <tr><td><a href="#-u21-01">U21-01</a></td><td>Prediction of bloodstream infections: Blood culturing data associated to clinical metadata</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
+    <tr><td><a href="#-u21-02">U21-02</a></td><td>Fluorescence angiography</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
+    <tr><td><a href="#-u21-03">U21-03</a></td><td>Consciousness in neurocritical care cohort study</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
+    <tr><td><a href="#-u21-04">U21-04</a></td><td>Predicting the immune response to SARS-CoV-2 in the COVIMUN cohort, a study of host genetics and cytokine response profiles in the context of known immunological pathways</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
+    <tr><td><a href="#-u21-05">U21-05</a></td><td>Thiopurine/methotrexate maintenance therapy of acute lymphoblastic leukemia</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
+    <tr><td><a href="#-u21-06">U21-06</a></td><td>Predict risk of infection (blood culture drawn) and chance of treatment free survival 4 years from start of first CLL treatment</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
+    <tr><td><a href="#-u21-07">U21-07</a></td><td>Microbiome, medication and clinical outcomes</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
+    <tr><td><a href="#-u21-08">U21-08</a></td><td>Prediction of peptide-epitope binding – the keyto immune response, vaccine design and drug design</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
+</table>
   
 ## Details
 
