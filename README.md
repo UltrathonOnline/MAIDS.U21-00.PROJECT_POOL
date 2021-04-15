@@ -33,7 +33,7 @@ The following projects are entered into the 2021 Ultrathon. Applicants will be a
 #### **Prediction of bloodstream infections: Blood culturing data associated to clinical metadata**
 <p align="center"><img width="100%" src="./images/u2101.jpg" /></p>
 
->Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-01.Blood_Infection).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-01.Blood_Infection/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-01.Blood_Infection).
 ```
 Karen Leth Nielsen, Frederik Boëtius Hertz, Niels Frimodt-Møller, Steen Rasmussen, Ruth Frikke-Schmidt,
 Jesper Qvist Thomassen
@@ -50,7 +50,7 @@ a period of more than 10 years.
 #### **Fluorescence angiography**
 <p align="center"><img width="100%" src="./images/u2102.png" /></p>
 
->Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-02.Florescence_angiography).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-02.Florescence_angiography/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-02.Florescence_angiography).
 ```
 Michael Achiam, Morten Bo Svendsen, Lars Bo Svendsen, Nikolaj Nerup, Jens Osterkamp
 @: Rigshospitalet, Copenhagen, Denmark
@@ -66,7 +66,7 @@ more sensitive and accurate quantification.
 #### **Consciousness in neurocritical care cohort study**
 <p align="center"><img width="100%" src="./images/u2103.jpg" /></p>
 
->Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-03.Consciousness).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-03.Consciousness/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-03.Consciousness).
 ```
 Daniel Kondziella, Moshgan Amiri
 @: Rigshospitalet, Copenhagen, Denmark
@@ -88,7 +88,7 @@ these patients, which will help to optimize clinical decision-making.
 #### **Predicting the immune response to SARS-CoV-2 in the COVIMUN cohort, a study of host genetics and cytokine response profiles in the context of known immunological pathways**
 <p align="center"><img width="100%" src="./images/u2104.png" /></p>
 
->Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-04.COVIMUN).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-04.COVIMUN/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-04.COVIMUN).
 ```
 Rebecka Svanberg, Carsten Niemann, Sisse Ostrowski, Rasmus Lykke Marvig, Preston Yui Sum Leung
 >@: Rigshospitalet, Copenhagen, Denmark
@@ -108,7 +108,7 @@ in response to COVID-19, which could ultimately have significant clinical impact
 #### **Thiopurine/methotrexate maintenance therapy of acute lymphoblastic leukemia**
 <p align="center"><img width="100%" src="./images/u2105.png" /></p>
 
->Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-05.ALL).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-05.ALL/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-05.ALL).
 ```
 Rikke Linnemann Nielsen, Kjeld Schmiegelow, Kathrine Grell
 @: Rigshospitalet, Copenhagen, Denmark
@@ -123,7 +123,7 @@ ALL2008 (2008-2018).
 #### **Predict risk of infection (blood culture drawn) and chance of treatment free survival 4 years from start of first CLL treatment**
 <p align="center"><img width="100%" src="./images/u2106.jpg" /></p>
 
->Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-06.CLLTIM).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-06.CLLTIM/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-06.CLLTIM).
 ```
 Carsten U. Niemann, Rudi Agius
 @: Rigshospitalet, Copenhagen, Denmark
@@ -141,7 +141,7 @@ response upon different treatment regimens.
 #### **Microbiome, medication and clinical outcomes**
 <p align="center"><img width="100%" src="./images/u2107.png" /></p>
 
->Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-07.ARG).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-07.ARG/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-07.ARG).
 ```
 Henrik Sengeløv, Jens Christian Nørgaard
 @: Rigshospitalet, Copenhagen, Denmark
@@ -159,7 +159,7 @@ outcomes and other microbiome features such as taxonomy.
 #### **Prediction of peptide-epitope binding – the keyto immune response, vaccine design and drug design**
 <p align="center"><img width="100%" src="./images/u2108.jpg" /></p>
 
->Visit this dataset's MAIDS [site]() and [repo](https://github.com/UltrathonOnline/MAIDS.U21-08.MHC).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-08.MHC/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-08.MHC).
 ```
 Marek Prachar, Sune Justesen, Daniel B. Steen-Jensen, Frederik O. Bagger
 @: Rigshospitalet, Copenhagen, Denmark
