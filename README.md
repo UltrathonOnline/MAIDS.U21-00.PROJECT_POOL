@@ -4,7 +4,7 @@
 
 # Project pool for the 2021 Copenhagen Ultrathon in Medical AI and Precision Medicine
 
-A manifest and description of all projects entering the 2021 Copenhagen Ultrathon. If you have project-specific questions, please make use of the discussion forums available on the repositories of each project. Links to the websites and repositories for each of the Medical AI Datasheets (MAIDS) are included in the details section for each dataset.
+This page contains the manifest of all projects entering the 2021 Copenhagen Ultrathon. If you have project-specific questions, please make use of the discussion forums available on the repositories of each project. Links to the websites and repositories for each of the Medical AI Datasheets (MAIDS) are included in the details section for each dataset.
 
 > Visit the manifest's [website](https://ultrathononline.github.io/U21-PROJECT-POOL/) or [repository](https://github.com/UltrathonOnline/U21-PROJECT-POOL).
 
@@ -22,7 +22,7 @@ The following table lists projects entered into the 2021 Ultrathon. Click on the
 Applicants will be asked to submit presolutions (small idealized solutions) when applying to attend the event. A committee will select attendees based on the scientific merit of presolutions. An exact rubric will be published later this year. Participants will have the opportunity to take their ideas through to publication during the six week event.
 
 <table width="95%">
-    <tr><th width="8%">ID</th><th width="72%">Title</th><th width="20%">MAIDS</th></tr>
+    <tr><th width="12%">ID</th><th width="70%">Title</th><th width="18%">MAIDS</th></tr>
     <tr><td><a href="#-u21-01">U21-01</a></td><td>Prediction of bloodstream infections: Blood culturing data associated to clinical metadata</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
     <tr><td><a href="#-u21-02">U21-02</a></td><td>Fluorescence angiography</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
     <tr><td><a href="#-u21-03">U21-03</a></td><td>Consciousness in neurocritical care cohort study</td><td><a href="">pdf</a>, <a href="">site</a>, <a href="">repo</a></td></tr>
