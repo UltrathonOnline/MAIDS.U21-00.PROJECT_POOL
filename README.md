@@ -1,4 +1,5 @@
 <a id="top"></a>
+
 <p align="center"><img width="100%" src="./images/project_pool.png" /></p>
 
 # Project pool for the 2021 Copenhagen Ultrathon in Medical AI and Precision Medicine
@@ -30,10 +31,13 @@ The following projects are entered into the 2021 Ultrathon. Applicants will be a
 ## Details
 
 ### **&#10149; U21-01**
+
 #### **Prediction of bloodstream infections: Blood culturing data associated to clinical metadata**
+
 <p align="center"><img width="100%" src="./images/u2101.jpg" /></p>
 
 >Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-01.Blood_Infection/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-01.Blood_Infection).
+
 ```
 Karen Leth Nielsen, Frederik Boëtius Hertz, Niels Frimodt-Møller, Steen Rasmussen, Ruth Frikke-Schmidt,
 Jesper Qvist Thomassen
@@ -47,10 +51,13 @@ a period of more than 10 years.
 [top](#top) | [next](#-u21-02)
 
 ### **&#10149; U21-02**
+
 #### **Fluorescence angiography**
+
 <p align="center"><img width="100%" src="./images/u2102.png" /></p>
 
 >Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-02.Florescence_angiography/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-02.Florescence_angiography).
+
 ```
 Michael Achiam, Morten Bo Svendsen, Lars Bo Svendsen, Nikolaj Nerup, Jens Osterkamp
 @: Rigshospitalet, Copenhagen, Denmark
@@ -63,10 +70,13 @@ more sensitive and accurate quantification.
 [prev](#-u21-01) | [top](#top) | [next](#-u21-03)
 
 ### **&#10149; U21-03**
+
 #### **Consciousness in neurocritical care cohort study**
+
 <p align="center"><img width="100%" src="./images/u2103.jpg" /></p>
 
 >Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-03.Consciousness/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-03.Consciousness).
+
 ```
 Daniel Kondziella, Moshgan Amiri
 @: Rigshospitalet, Copenhagen, Denmark
@@ -82,13 +92,17 @@ of unresponsive patients suffering from acute brain injury. The main purpose of 
 identify important information predicting level of consciousness and outcome (acute and long-term) in
 these patients, which will help to optimize clinical decision-making.
 ```
+
 [prev](#-u21-02) | [top](#top) | [next](#-u21-04)
 
 ### **&#10149; U21-04**
+
 #### **Predicting the immune response to SARS-CoV-2 in the COVIMUN cohort, a study of host genetics and cytokine response profiles in the context of known immunological pathways**
+
 <p align="center"><img width="100%" src="./images/u2104.png" /></p>
 
 >Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-04.COVIMUN/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-04.COVIMUN).
+
 ```
 Rebecka Svanberg, Carsten Niemann, Sisse Ostrowski, Rasmus Lykke Marvig, Preston Yui Sum Leung
 >@: Rigshospitalet, Copenhagen, Denmark
@@ -102,13 +116,17 @@ with in vitro functional assessment of stimulated whole blood immune responses. 
 provides a unique opportunity to unravel correlations between genotype and immune phenotype- and function
 in response to COVID-19, which could ultimately have significant clinical impact.
 ```
+
 [prev](#-u21-03) | [top](#top) | [next](#-u21-05)
 
 ### **&#10149; U21-05**
+
 #### **Thiopurine/methotrexate maintenance therapy of acute lymphoblastic leukemia**
+
 <p align="center"><img width="100%" src="./images/u2105.png" /></p>
 
 >Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-05.ALL/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-05.ALL).
+
 ```
 Rikke Linnemann Nielsen, Kjeld Schmiegelow, Kathrine Grell
 @: Rigshospitalet, Copenhagen, Denmark
@@ -117,13 +135,17 @@ To provide a deeper understanding of pharmacogenetics/-kinetics/-dynamics of MT 
 childhood leukemia. The datasets emerge from two Nordic childhood leukemia protocols (ALL92: 1992-2006) and
 ALL2008 (2008-2018).
 ```
+
 [prev](#-u21-04) | [top](#top) | [next](#-u21-06)
 
 ### **&#10149; U21-06**
+
 #### **Predict risk of infection (blood culture drawn) and chance of treatment free survival 4 years from start of first CLL treatment**
+
 <p align="center"><img width="100%" src="./images/u2106.jpg" /></p>
 
 >Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-06.CLLTIM/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-06.CLLTIM).
+
 ```
 Carsten U. Niemann, Rudi Agius
 @: Rigshospitalet, Copenhagen, Denmark
@@ -135,13 +157,17 @@ includes outcome on death, treatment and infection. Using this data set we aim t
 upon CLL treatment and uncover risk factors responsible for low immune function and duration of treatment
 response upon different treatment regimens.
 ```
+
 [prev](#-u21-05) | [top](#top) | [next](#-u21-07)
 
 ### **&#10149; U21-07**
+
 #### **Microbiome, medication and clinical outcomes**
+
 <p align="center"><img width="100%" src="./images/u2107.png" /></p>
 
 >Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-07.ARG/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-07.ARG).
+
 ```
 Henrik Sengeløv, Jens Christian Nørgaard
 @: Rigshospitalet, Copenhagen, Denmark
@@ -153,13 +179,17 @@ and we have established an automatic way of extracting data on use of antibiotic
 -fungi), immunosuppressants and chemotherapy. Moreover, we have detailed data on demographics, clinical
 outcomes and other microbiome features such as taxonomy.
 ```
+
 [prev](#-u21-06) | [top](#top) | [next](#-u21-08)
 
 ### **&#10149; U21-08**
+
 #### **Prediction of peptide-epitope binding – the keyto immune response, vaccine design and drug design**
+
 <p align="center"><img width="100%" src="./images/u2108.jpg" /></p>
 
 >Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-08.MHC/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-08.MHC).
+
 ```
 Marek Prachar, Sune Justesen, Daniel B. Steen-Jensen, Frederik O. Bagger
 @: Rigshospitalet, Copenhagen, Denmark
@@ -172,4 +202,5 @@ The dataset consists of two types of data one is precise and expensive, the othe
 (binding/non-binding) and less expensive. Being able to make the full use the cheap data in a model
 would mean an explosion of available data for this type of problems.
 ```
+
 [prev](#-u21-07) | [top](#top)
