@@ -43,7 +43,7 @@ The following table lists projects entered into the 2021 Ultrathon. Click on the
 
 <p align="center"><img width="100%" src="./images/u2101.jpg" /></p>
 
->Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-01.Blood_Infection/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-01.Blood_Infection).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-01.Blood_Infection/), [repo](https://github.com/UltrathonOnline/MAIDS.U21-01.Blood_Infection), or read the [PDF](https://ultrathononline.github.io/MAIDS.U21-01.Blood_Infection/maids.pdf).
 
 ```
 Karen Leth Nielsen, Frederik Boëtius Hertz, Niels Frimodt-Møller, Steen Rasmussen, Ruth Frikke-Schmidt,
@@ -63,7 +63,7 @@ a period of more than 10 years.
 
 <p align="center"><img width="100%" src="./images/u2102.png" /></p>
 
->Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-02.Florescence_angiography/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-02.Florescence_angiography).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-02.Florescence_angiography/), [repo](https://github.com/UltrathonOnline/MAIDS.U21-02.Florescence_angiography, or read the [PDF](https://ultrathononline.github.io/MAIDS.U21-02.Florescence_angiography/maids.pdf)).
 
 ```
 Michael Achiam, Morten Bo Svendsen, Lars Bo Svendsen, Nikolaj Nerup, Jens Osterkamp
@@ -82,7 +82,7 @@ more sensitive and accurate quantification.
 
 <p align="center"><img width="100%" src="./images/u2103.jpg" /></p>
 
->Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-03.Consciousness/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-03.Consciousness).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-03.Consciousness/), [repo](https://github.com/UltrathonOnline/MAIDS.U21-03.Consciousness), or read the [PDF](https://ultrathononline.github.io/MAIDS.U21-03.Consciousness/maids.pdf).
 
 ```
 Daniel Kondziella, Moshgan Amiri
@@ -108,7 +108,7 @@ these patients, which will help to optimize clinical decision-making.
 
 <p align="center"><img width="100%" src="./images/u2104.png" /></p>
 
->Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-04.COVIMUN/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-04.COVIMUN).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-04.COVIMUN/), [repo](https://github.com/UltrathonOnline/MAIDS.U21-04.COVIMUN), or read the [PDF](https://ultrathononline.github.io/MAIDS.U21-04.COVIMUN/maids.pdf).
 
 ```
 Rebecka Svanberg, Carsten Niemann, Sisse Ostrowski, Rasmus Lykke Marvig, Preston Yui Sum Leung
@@ -132,7 +132,7 @@ in response to COVID-19, which could ultimately have significant clinical impact
 
 <p align="center"><img width="100%" src="./images/u2105.png" /></p>
 
->Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-05.ALL/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-05.ALL).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-05.ALL/), [repo](https://github.com/UltrathonOnline/MAIDS.U21-05.ALL), or read the [PDF](https://ultrathononline.github.io/MAIDS.U21-05.ALL/maids.pdf).
 
 ```
 Rikke Linnemann Nielsen, Kjeld Schmiegelow, Kathrine Grell
@@ -151,7 +151,7 @@ ALL2008 (2008-2018).
 
 <p align="center"><img width="100%" src="./images/u2106.jpg" /></p>
 
->Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-06.CLLTIM/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-06.CLLTIM).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-06.CLLTIM/), [repo](https://github.com/UltrathonOnline/MAIDS.U21-06.CLLTIM), or read the [PDF](https://ultrathononline.github.io/MAIDS.U21-06.CLLTIM/maids.pdf).
 
 ```
 Carsten U. Niemann, Rudi Agius
@@ -173,7 +173,7 @@ response upon different treatment regimens.
 
 <p align="center"><img width="100%" src="./images/u2107.png" /></p>
 
->Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-07.ARG/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-07.ARG).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-07.ARG/), [repo](https://github.com/UltrathonOnline/MAIDS.U21-07.ARG), or read the [PDF](https://ultrathononline.github.io/MAIDS.U21-07.ARG/maids.pdf).
 
 ```
 Henrik Sengeløv, Jens Christian Nørgaard
@@ -195,7 +195,7 @@ outcomes and other microbiome features such as taxonomy.
 
 <p align="center"><img width="100%" src="./images/u2108.jpg" /></p>
 
->Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-08.MHC/) and [repo](https://github.com/UltrathonOnline/MAIDS.U21-08.MHC).
+>Visit this dataset's MAIDS [site](https://ultrathononline.github.io/MAIDS.U21-08.MHC/), [repo](https://github.com/UltrathonOnline/MAIDS.U21-08.MHC), or read the [PDF](https://ultrathononline.github.io/MAIDS.U21-08.MHC/maids.pdf).
 
 ```
 Marek Prachar, Sune Justesen, Daniel B. Steen-Jensen, Frederik O. Bagger
